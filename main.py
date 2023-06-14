@@ -4,7 +4,7 @@ import openpyxl
 from deep_translator import GoogleTranslator
 
 client = discord.Client(intents=discord.Intents.default())
-TOKEN = 'MTA4MTk2NjIxNTMxNDAxNDMyOA.GvTGtf.rO2Gu5N_cZI07Ze__1Y-mMiRUDE--kSX2qLJio'
+TOKEN = 'your token here'
 
 @client.event
 async def on_ready():
