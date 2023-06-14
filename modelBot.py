@@ -2,7 +2,7 @@ import discord
 from tr_func import *
 
 client = discord.Client(intents=discord.Intents.default())
-TOKEN = 'MTExNjA2NjI1NjY4MDkyMzI2OA.GJ9uoN.NAj__idQdiJoZ7sfenORxgOtsPHjv_hojGmq9Y'
+TOKEN = 'your token here'
 
 @client.event
 async def on_ready():
